@@ -430,8 +430,8 @@ This project is developed for academic purposes by **Team LiveANet**. All rights
 
 ## Author
 
-Jacques Nico Belmonte - Programmer
-John Louie Abenir - Project Leader
-Kenn Louise Comprado - Technical Writer
+Jacques Nico Belmonte - Programmer |
+John Louie Abenir - Project Leader |
+Kenn Louise Comprado - Technical Writer 
 
 > **Disclaimer:** This tool is intended to assist users in critically evaluating online news content. It is not a definitive arbiter of truth. Always cross-reference information with multiple credible sources.
