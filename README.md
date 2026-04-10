@@ -28,7 +28,7 @@
 
 ## Overview
 
-**E For Real** is a browser extension and machine learning-powered tool designed to detect potentially fake or misleading news articles — with a specific focus on **Philippine news content**. It uses a **Calibrated Naive Bayes classifier** trained on a labeled Filipino news dataset, combined with **TF-IDF vectorization**, to analyze the text of any webpage and return a credibility assessment in real time.
+We create a browser extension and machine learning-powered tool designed to detect potentially fake or misleading news articles — with a specific focus on **Philippine news content**. It uses a **Calibrated Naive Bayes classifier** trained on a labeled Filipino news dataset, combined with **TF-IDF vectorization**, to analyze the text of any webpage and return a credibility assessment in real time.
 
 The system consists of two major components:
 1. A **Flask backend server** that handles text preprocessing, model inference, word influence analysis, and summarization.
