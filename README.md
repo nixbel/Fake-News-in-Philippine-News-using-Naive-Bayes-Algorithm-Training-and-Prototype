@@ -1,4 +1,3 @@
-# E For Real — Fake News Detector 🕵️‍♂️
 ### Fake News Detection in Philippine News using Naive Bayes Algorithm
 
 > Developed by **Team LiveANet**
